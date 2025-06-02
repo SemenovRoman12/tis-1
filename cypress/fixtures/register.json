@@ -1,0 +1,23 @@
+{
+  "main_url": "https://dev.profteam.su/registration",
+  "login": "ducciofreedd",
+  "email": "ducciofreeedd@gmail.com",
+  "password": "QWEasd123",
+  "password_confirm": "QWEasd123",
+  "surname": "Кузьмин",
+  "name": "Олег",
+  "patronymic": "Игоревич",
+  "login_incorrect": "абвгде",
+  "email_incorrect": "ducciofrederic.com",
+  "password_incorrect": "test",
+  "password_confirm_incorrect": "test",
+  "surname_incorrect": "Kuzmin",
+  "name_incorrect": "Oleg",
+  "patronymic_incorrect": "Igorevich",
+  "registered_login": "ducciotest",
+  "registered_password": "Test123",
+  "login_unique": "ducciotest",
+  "email_unique": "ducciofrederic51@gmail.com",
+  "login_not_unique": "ddducciofreedd",
+  "email_not_unique": "ddducciofreedd@gmail.com"
+}

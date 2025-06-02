@@ -1,13 +1,5 @@
 {
-  "name": "practice-cypress-variant-4",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "cy:open": "cypress open",
-    "test": "cypress run"
-  },
   "devDependencies": {
-    "@faker-js/faker": "^8.4.0",
-    "cypress": "^13.7.3"
+    "cypress": "^13.8.1"
   }
 }
